@@ -8,6 +8,13 @@ You can use jsonschema2pojo as a Maven plugin, an Ant task, a command line utili
 
 A very simple Maven example:
 ```xml
+红外线 我拉开打了卡了；阿法拉
+发发发
+
+飞aefafa
+饿啊法尔范是
+而分开算分了片刻色谱
+
 <plugin>
     <groupId>org.jsonschema2pojo</groupId>
     <artifactId>jsonschema2pojo-maven-plugin</artifactId>
