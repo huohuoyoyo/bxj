@@ -13,6 +13,11 @@ You can use jsonschema2pojo as a Maven plugin, an Ant task, a command line utili
 飞aefafa
 饿啊法尔范是
 而分开算分了片刻色谱
+dfdkfl
+dsfdsfs
+dsfdsfsdg
+dgdsgs
+g
 
 <plugin>
     <groupId>org.jsonschema2pojo</groupId>
