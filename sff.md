@@ -6,8 +6,7 @@ _jsonschema2pojo_ generates Java types from JSON Schema (or example JSON) and ca
 
 You can use jsonschema2pojo as a Maven plugin, an Ant task, a command line utility, a Gradle plugin or embedded within your own Java app. The [Getting Started](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started) guide will show you how.
 
-A very simple Maven example:
-```xml
+
 红外线 我拉开打了卡了；阿法拉
 发发发
 
@@ -32,6 +31,7 @@ A very simple Maven example:
     </executions>
 </plugin>
 ```
+how are you?
 Useful pages:
   * **[Getting Started](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Getting-Started)**
   * [Reference](https://github.com/joelittlejohn/jsonschema2pojo/wiki/Reference)
